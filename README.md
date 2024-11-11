@@ -22,9 +22,9 @@
 ## ✍️ Літературна діяльність
 Основні твори:
 
-1. ![Обкладинка Захар Беркут](https://github.com/z7kkj/IvanFranko/blob/main/zakhar_berkut.jpg) **Захар Беркут**
-2. ![Обкладинка Мойсей]([./images/moysey.jpg](https://github.com/z7kkj/IvanFranko/blob/main/moysey.jpg)) **Мойсей**
-3. ![Обкладинка Каменярі](./images/kamenyari.jpg) **Каменярі**
+1. **Захар Беркут**
+2. **Мойсей**
+3. **Каменярі**
 4. **Борислав сміється**
 5. **Перехресні стежки**
 
