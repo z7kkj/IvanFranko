@@ -42,7 +42,7 @@
 - Риболовля 🎣
 - Подорожі українськими містами
 
-![Карпати]([./images/karpaty.jpg](https://github.com/z7kkj/IvanFranko/blob/main/karpaty.jpg))
+![Карпати]([./images/karpaty.jpg](https://github.com/z7kkj/IvanFranko/blob/main/karpaty.jpg)
 
 ---
 
