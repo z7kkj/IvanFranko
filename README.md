@@ -23,7 +23,7 @@
 Основні твори:
 
 1. ![Обкладинка Захар Беркут](https://github.com/z7kkj/IvanFranko/blob/main/zakhar_berkut.jpg) **Захар Беркут**
-2. ![Обкладинка Мойсей](./images/moysey.jpg) **Мойсей**
+2. ![Обкладинка Мойсей]([./images/moysey.jpg](https://github.com/z7kkj/IvanFranko/blob/main/moysey.jpg)) **Мойсей**
 3. ![Обкладинка Каменярі](./images/kamenyari.jpg) **Каменярі**
 4. **Борислав сміється**
 5. **Перехресні стежки**
